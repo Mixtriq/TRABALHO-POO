@@ -1,3 +1,4 @@
+// O código não está completo, fizemos o que podemos
 let motoristas:motorista[] = [];
 let passageiros:passageiro[] = [];
 let viagens:viagem[] = [];
